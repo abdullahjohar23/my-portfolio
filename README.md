@@ -25,3 +25,9 @@ If you'd like to connect, feel free to reach out via:
 ---
 
 ### ⭐ Feel free to star this repo if you like it!
+
+### Simple Output of My Portfolio
+
+![Image](https://github.com/user-attachments/assets/fd10062d-b1ed-47c7-bd99-8f0e1549d8a2)
+![Image](https://github.com/user-attachments/assets/8eae8824-db31-4a24-8ec9-534a9b297c99)
+![Image](https://github.com/user-attachments/assets/86d35e84-c099-447c-ab39-f72fbc168e4a)
