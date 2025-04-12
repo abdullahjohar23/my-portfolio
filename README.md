@@ -15,7 +15,7 @@ This is my personal portfolio website, showcasing my skills, experience, and pro
 
 
 ## 🌐 Live Preview
-[Check it out here](#) *(Replace with live link if deployed)*
+[Check it out here](#) [https://abdullahjohar-portfolio.netlify.app/]
 
 ## 📩 Contact Me
 If you'd like to connect, feel free to reach out via:
